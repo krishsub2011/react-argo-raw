@@ -1,0 +1,39 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "7.17.9",
+    "@codemirror/commands": "^0.20.0",
+    "@codemirror/highlight": "0.19.8",
+    "@codemirror/lang-json": "0.20.0",
+    "@codemirror/legacy-modes": "0.20.0",
+    "@codemirror/stream-parser": "0.19.9",
+    "@codemirror/view": "0.20.4",
+    "@heroicons/react": "1.0.6",
+    "@jsplumb/browser-ui": "5.6.0",
+    "@jsplumb/common": "^5.6.0",
+    "@jsplumb/connector-bezier": "5.6.0",
+    "@jsplumb/util": "^5.6.0",
+    "@types/react": "18.0.8",
+    "@types/react-dom": "18.0.2",
+    "@uiw/react-codemirror": "4.7.0",
+    "d3": "7.4.4",
+    "formik": "2.2.9",
+    "lodash": "4.17.21",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "style-mod": "^4.0.0",
+    "uuid": "8.3.2",
+    "web-vitals": "2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
